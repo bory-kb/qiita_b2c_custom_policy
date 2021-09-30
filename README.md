@@ -1,0 +1,1 @@
+# qiita_b2c_custom_policy
